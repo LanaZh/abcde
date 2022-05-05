@@ -21,5 +21,3 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 
-var a = 10
-
